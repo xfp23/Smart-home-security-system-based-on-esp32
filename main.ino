@@ -39,7 +39,7 @@ void setup(){
      Serial.begin(9600);
   }
 
-
+###主函数
  void loop(){
   static uint people=0;//计数器
   volatile bool serson_out_state=digitalRead(serson_out);//此传感器感应物体为低电平
