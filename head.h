@@ -1,4 +1,4 @@
-'''Ardiuno
+'''c++
 #常量以及函数定义
   #include "Arduino.h"
 #ifndef HIGH
